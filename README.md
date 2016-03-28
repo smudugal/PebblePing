@@ -1,2 +1,2 @@
-# PingPhone
-Pebble app associated with PebblePing android repo.
+# PebblePing
+Pebble app associated with PebblePingCompanion android repo.
