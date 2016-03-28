@@ -1,0 +1,23 @@
+{
+    "appKeys": {
+        "message": 1,
+        "status": 0
+    },
+    "capabilities": [
+        ""
+    ],
+    "companyName": "warren.samyukta@gmail.com",
+    "enableMultiJS": true,
+    "longName": "PingPhone",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "PingPhone",
+    "uuid": "538ead34-63d4-40d5-8b7f-ee07c9eddf3d",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
