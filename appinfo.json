@@ -15,6 +15,11 @@
     },
     "sdkVersion": "3",
     "shortName": "PingPhone",
+    "targetPlatforms": [
+        "aplite",
+        "basalt",
+        "chalk"
+    ],
     "uuid": "538ead34-63d4-40d5-8b7f-ee07c9eddf3d",
     "versionLabel": "1.0",
     "watchapp": {

@@ -24,7 +24,7 @@ static void send_message(void){
 
 static void out_failed_handler(DictionaryIterator *failed, AppMessageResult reason, void *context) {
   text_layer_set_text(s_text, "Ping failed!");
-  APP_LOG(APP_LOG_LEVEL_ERROR, "Fail reason: %d", (int)reason);
+  APP_LOG(APP_LOG_LEVEL_DEBUG, "Fail reason: %d", (int)reason);
 }
 
 static void out_sent_handler(DictionaryIterator *iterator, void *context){
